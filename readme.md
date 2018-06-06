@@ -5,7 +5,6 @@ Bruno F. Bessa
  
 ### File list  
 * readme.md
-* quiz.txt
 * Bank Marketing Data Analysis.ipynb (Jupyter Notebook)
 
 ### About  
